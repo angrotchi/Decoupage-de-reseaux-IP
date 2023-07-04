@@ -45,7 +45,7 @@ Pour avoir 50, il faut 2 puissance 6 qui est égale à 64. 64 - 2 = 62. Donc, il
 * Last  host: 172.16.1.62
 * Broadcast address: 172.16.1.63
   
-Le tableau ci-dessous montre les autres Pole et leurs différents réseaux
+Le tableau ci-dessous montre les autres Poles et leurs différents réseaux
 
 |:-:Subnet Name |:-:Needed size|:-:Allocated Size|:-:Address|:-: Mask  |:-: Dec Mask | :-: Assignable Range |:-: Broadcast |  
 |:-: Pole informatique |:-:50  |:-:62 |:-:172.16.1.0|:-:/26 |:-: 255.255.255.192|:-:172.16.1.1 - 172.16.1.62|:-:172.16.1.63|
